@@ -1,1 +1,2 @@
-prva izmena
+<<<<<<< HEAD
+prva izmena neka druga izmena
